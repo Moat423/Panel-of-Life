@@ -13,4 +13,4 @@ This uses an LED Panel, an Arduino a joystick for movement and one external Butt
 
 ### Pictures
 
-tba
+![LED Panel at mini Makerthon](assets/panel-showcase-at-fbNK.jpg)
